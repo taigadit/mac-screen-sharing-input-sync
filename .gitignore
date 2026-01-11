@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Hammerspoon
+*.log
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Backup files
+*.backup.*
